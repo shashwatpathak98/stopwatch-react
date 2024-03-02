@@ -14,4 +14,4 @@ This project is a simple stopwatch application built using React and Tailwind CS
 - Tailwind CSS
 
 ## Demo
-You can find a live demo of the Stopwatch React app [here](https://shashwatpathak98.github.io/stopwatch-react).
+You can find a live demo of the Stopwatch React app [here](https://shashwatpathak98.github.io/stopwatch-react){:target="_blank"}.
